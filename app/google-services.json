@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071084330545",
+    "project_id": "pocket-garage-11551",
+    "storage_bucket": "pocket-garage-11551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071084330545:android:da5553fe57fff774ebbf10",
+        "android_client_info": {
+          "package_name": "com.example.pocketgarage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuLuDGzSsG63f2LY3Ybpkp0bxiRohzJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
